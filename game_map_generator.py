@@ -94,11 +94,6 @@ def create_spatial_graph():
 #%%
 import networkx as nx
 
-
-def draw_graph(g:nx.Graph):
-    pass    
-
-#%%
 np.random.seed(2)
 
 
